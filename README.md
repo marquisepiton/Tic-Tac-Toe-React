@@ -2,7 +2,7 @@
 
 I will learn the fundamentals and get a deep understanding of building a React app by creating the classic game, Tic Tac Toe. 
 
-# Skills I will show case: 
+# Skills I will showcase: 
 
     - React Fundamental: 
         - React Render
